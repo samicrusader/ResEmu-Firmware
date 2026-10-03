@@ -2,6 +2,8 @@
 
 This is a collection of files for ResEmu-X that allow it to emulate a Xecuter X3 modchip.
 
+<img width="694" height="1260" alt="image" src="https://github.com/user-attachments/assets/eb50269d-2a78-4ffe-bd8d-d665187ed2f0" />
+
 ## X3 files
 
 [x3_flashrom.bin](x3_flashrom.bin): FlashROM banks 1-4 = 1x1 MB X3.3294 BIOS
