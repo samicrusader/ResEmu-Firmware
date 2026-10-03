@@ -1,0 +1,13 @@
+lba48 partition modes: 
+
+0 = standard partitions 
+1 = F: gets all (Default)
+2 = F: up to 137gb, G: gets rest
+3 = F: up to 137gb, no G:
+
+You have to patch 0,1,2 or 3 value at offset 0x1b04 (if you wanna hex dit manually)
+
+However there are tools for lba48 patching and ini file creation - they can be found here:
+
+http://home.alltel.net/nghtshd/x2ool.html
+http://x-projects.xbox-scene.com/
